@@ -1,4 +1,4 @@
-package com.anjan.helloworldapi;
+package com.anjan.hello.world.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
